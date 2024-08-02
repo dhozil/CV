@@ -4,8 +4,7 @@ Discord: dhozil
 
 Twitter: https://x.com/cobersky
 
-My Github if needed : https://github.com/dhozil
-
+Medium : https://medium.com/@dhozil
 
 == Current network activities ===
 
