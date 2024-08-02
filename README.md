@@ -1,9 +1,14 @@
 If you want to contact me via email: dhozilgooners98@gmail.com
+
 Discord: dhozil
+
 Twitter: https://x.com/cobersky
+
 My Github if needed : https://github.com/dhozil
 
+
 == Current network activities ===
+
 -[Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper18qclh0e4g7pt5vh3tfa4zkz97y2dw85ugvzg8v/overview)
 
 -[OG Labs](https://explorer.dhozil.xyz/0g/staking/0gvaloper1s9s6pmxfrc5rh52cy77py05uvfpj2st792k4gz)
