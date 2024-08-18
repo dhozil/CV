@@ -18,6 +18,16 @@ Medium : https://medium.com/@dhozil
 
 -[Galactica](https://explorer.dhozil.xyz/galatica/staking/galavaloper1dk3ndl9d3xtzeqfw2dhynaptfeampkw0v8j5j7)
 
+- PWR
+
+- GAIANET
+
+- [DILL](https://andes.dill.xyz/validators?pubkey=0xb8871401d6fd797ce423d3bf35880dd3e204708172c9ed43dd9487fa14790529340edd5388b92b30d1b3a896463504d3)
+
+- Viper
+
+- Sonaric
+
 
 == Past network activities ===
 
