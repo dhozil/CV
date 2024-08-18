@@ -6,8 +6,8 @@ Twitter: https://x.com/cobersky
 
 Medium : https://medium.com/@dhozil
 
-`== Current network activities ===
-`
+# Current Network Activities
+
 
 -[Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper18qclh0e4g7pt5vh3tfa4zkz97y2dw85ugvzg8v/overview)
 
@@ -32,8 +32,7 @@ Medium : https://medium.com/@dhozil
 -Sonaric
 
 
-`== Past network activities ===
-`
+# Past Network Activities
 
 -[Dymension rollapp](https://devnet.dymension.xyz/rollapp/dhozil_7538454-1/metrics)
 
