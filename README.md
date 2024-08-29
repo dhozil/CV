@@ -1,3 +1,5 @@
+Hello, I am Dhozil, an independent node validator, I have experience in various projects in running Validators and Nodes. I can contribute to your project and develop your project with my abilities. If you need information about my experience.
+
 If you want to contact me via email: dhozilgooners98@gmail.com
 
 Discord: dhozil
