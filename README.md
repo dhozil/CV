@@ -15,7 +15,7 @@ Medium : https://medium.com/@dhozil
 
 -[OG Labs](https://explorer.dhozil.xyz/0g/staking/0gvaloper1h9t4rte2vghjgq8xxywwwca7dhpalpndxhr06a)
 
--[Warden Protocol](https://explorer-warden.dhozil.online/warden-testnet/staking/wardenvaloper1jnzmgch2xpd0emf80veaqj0kmw360xdu0yacmz)
+-[Warden Protocol](https://warden-explorer.paranorm.pro/warden/staking/wardenvaloper1jnzmgch2xpd0emf80veaqj0kmw360xdu0yacmz)
 
 -[Artela](https://testnet.itrocket.net/artela/staking/artvaloper1cd3uaayy86mgnp25leuu3pzz6aq83ceg6xg8x3)
 
