@@ -4,9 +4,9 @@ If you want to contact me via email: dhozilgooners98@gmail.com
 
 Discord: dhozil
 
-Twitter: https://x.com/cobersky
+Twitter: [cobersky](https://x.com/cobersky)
 
-Medium : https://medium.com/@dhozil
+Medium : [dhozilgooners](https://medium.com/@dhozil)
 
 # Current Network Activities
 
