@@ -25,7 +25,7 @@ Medium : [dhozilgooners](https://medium.com/@dhozil)
 
 -GAIANET
 
--[DILL](https://andes.dill.xyz/validators?pubkey=0xb8871401d6fd797ce423d3bf35880dd3e204708172c9ed43dd9487fa14790529340edd5388b92b30d1b3a896463504d3)
+-[DILL](https://alps.dill.xyz/validators?pubkey=85fe2437c3ee4d454cf579df495756a57019a05d7c5ca4ab286bdb7b4f7be10bb8f205e9484a4902f114ac8b364c64bf)
 
 -[Empeiria](https://explorer-testnet.empe.io/validators/empevaloper1p80vrpegl4lyngusf7p3ln5z5zkwjjmeenkfgc)
 
