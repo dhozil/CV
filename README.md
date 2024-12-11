@@ -10,6 +10,7 @@ Medium : [dhozilgooners](https://medium.com/@dhozil)
 
 # Current Network Activities
 
+-[Story Protocol](https://testnet.storyscan.app/validators/storyvaloper1gnkssjh2nva4z0yvv7megl25hmmvg9csvggt0h)
 
 -[Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper18qclh0e4g7pt5vh3tfa4zkz97y2dw85ugvzg8v/overview)
 
